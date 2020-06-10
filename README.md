@@ -25,6 +25,6 @@
 - Active Buzzer
 - SMD RGB LED
 ### โครงสร้างพื้นฐาน
-https://github.com/PearAreeya/Farm-Automation-System/blob/master/img1/q2.PNG?raw=true
+img1/q.PNG
 ### ระบบการทำงาน
 https://github.com/PearAreeya/Farm-Automation-System/blob/master/img1/q.PNG?raw=true
