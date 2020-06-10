@@ -11,11 +11,11 @@
 -บุคคลทั่วไปที่ต้องการระบบช่วยดูแลฟาร์ม
 ## รายละเอียดโปรเจค
 # Perception Module
--Digital Temperature & Humidity Sensor
--Water Level Sensor
--Light Sensor
+*Digital Temperature & Humidity Sensor
+*Water Level Sensor
+*Light Sensor
 # Behavior
--อ่านค่า อุณหภูมิ ความชื้นในดิน และค่าแสง 
+อ่านค่า อุณหภูมิ ความชื้นในดิน และค่าแสง 
 -เมื่ออุณหภูมิร้อนจะมีสัญญาณแจ้งเตือน
 -พรวนหน้าดินเมื่อดินแห้ง
 -เปิด-ปิดไฟอัตโนมัติ
