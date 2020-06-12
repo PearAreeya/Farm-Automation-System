@@ -1,19 +1,19 @@
-const int blue = 6;//set blue to pin 3
-const int red = 5;//set red to pin 5
-const int green = 4;//set green to pin 6
+const int blue = 6;
+const int red = 5;
+const int green = 4;
 
 
 void setup() {
   
-pinMode(blue, OUTPUT);//set blue as an output
-pinMode(red, OUTPUT);//set red as an output
-pinMode(green, OUTPUT);//set green as an output
+pinMode(blue, OUTPUT);
+pinMode(red, OUTPUT);
+pinMode(green, OUTPUT);
 
 }
 
 void loop() {
   
-  digitalWrite(blue,HIGH);//color sequence for cycling through blue, red, green. One at a time.
+  digitalWrite(blue,HIGH);
   delay(1000);
   digitalWrite(blue,LOW);
   delay(1000);
