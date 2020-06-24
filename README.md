@@ -29,4 +29,4 @@
 ### ระบบการทำงาน
 ![imgur](https://github.com/PearAreeya/Farm-Automation-System/blob/master/img1/p2.PNG)
 ### การต่อสายไฟ
-![imgur](https://github.com/PearAreeya/Farm-Automation-System/blob/master/img1/9.PNG)
+![imgur](https://github.com/PearAreeya/Farm-Automation-System/blob/master/img1/9.JPG)
